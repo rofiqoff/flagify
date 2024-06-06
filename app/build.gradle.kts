@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.rofiqoff.flagify"
+    namespace = "com.rofiqoff.example.flagify"
     compileSdk = 34
 
     defaultConfig {

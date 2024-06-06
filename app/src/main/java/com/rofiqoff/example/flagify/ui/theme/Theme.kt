@@ -1,4 +1,4 @@
-package com.rofiqoff.flagify.ui.theme
+package com.rofiqoff.example.flagify.ui.theme
 
 import android.app.Activity
 import android.os.Build

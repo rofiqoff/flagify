@@ -1,4 +1,4 @@
-package com.rofiqoff.flagify
+package com.rofiqoff.example.flagify
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.rofiqoff.flagify.ui.theme.FlagifyTheme
+import com.rofiqoff.example.flagify.ui.theme.FlagifyTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
